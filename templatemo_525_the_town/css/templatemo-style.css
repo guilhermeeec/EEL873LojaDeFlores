@@ -416,9 +416,9 @@ figure.effect-honey:hover h2 i {
 
 #contact {
   color: white;
-  background-image: url(../img/the-town-bg-02.jpg);
+  background-image: url(../new_img/the-town-bg-01.jpg);
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   min-height: 100vh;
   position: relative; 
   background-size: cover;

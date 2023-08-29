@@ -132,7 +132,7 @@ a:focus {
 /* Hero */
 
 #hero {
-  background-image: url(../img/the-town-bg-01.jpg);
+  background-image: url(../img/the-town-bg-01_new.jpg);
   background-repeat: no-repeat;
   height: 100vh;
   min-height: 375px;
@@ -416,11 +416,12 @@ figure.effect-honey:hover h2 i {
 
 #contact {
   color: white;
-  background-image: url(../img/the-town-bg-02.jpg);
+  background-image: url(../new_img/the-town-bg-01.jpg);
   background-position: center;
   background-repeat: no-repeat;
-  min-height: 850px;
-  position: relative;
+  min-height: 100vh;
+  position: relative; 
+  background-size: cover;
   padding-bottom: 50px;
   padding-top: 160px;
 }
